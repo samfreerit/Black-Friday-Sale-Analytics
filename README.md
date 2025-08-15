@@ -34,65 +34,66 @@ Technology Purpose
 📓 Jupyter Notebook	Interactive data analysis
 
 
-📂 Project Workflow
+📂 Project Workflow:
 
 
-📥 Data Loading
+1.📥 Data Loading
 
-Read dataset (black_friday_dataset.csv) into Pandas DataFrame.
-
-
-🧹 Data Cleaning
-
-Removed unnecessary columns (User_ID, Product_ID) to focus on analytics.
-
-Checked and handled missing values for product category columns.
+- Read dataset (black_friday_dataset.csv) into Pandas DataFrame.
 
 
-🔍 Exploratory Data Analysis (EDA)
+2.🧹 Data Cleaning
 
-Distribution of purchase amounts.
+- Removed unnecessary columns (User_ID, Product_ID) to focus on analytics.
 
-Purchase patterns by Gender, Age, Occupation, City Category, and Marital Status.
-
-Heatmaps and bar charts to visualize correlations.
+- Checked and handled missing values for product category columns.
 
 
-📊 Insights Generation
+3.🔍 Exploratory Data Analysis (EDA)
 
-Found top spending age groups.
+- Distribution of purchase amounts.
 
-Gender-based average purchase comparisons.
+- Purchase patterns by Gender, Age, Occupation, City Category, and Marital Status.
 
-Popular product categories.
-
-
-🎯 Business Value
-
-Insights can help retailers optimize product placement, target marketing campaigns, and plan inventory during big sales.
+- Heatmaps and bar charts to visualize correlations.
 
 
-📸 Sample Visualizations
+4.📊 Insights Generation
+
+- Found top spending age groups.
+
+- Gender-based average purchase comparisons.
+
+- Popular product categories.
 
 
-📉 Purchase Distribution — Histogram of customer spending.
+5.🎯 Business Value
+
+-Insights can help retailers optimize product placement, target marketing campaigns, and plan inventory during big sales.
 
 
-👫 Gender vs Purchase — Who spends more?
+📸 Sample Visualizations:
 
 
-📍 City Category Analysis — Urban vs rural spending habits.
+- 📉 Purchase Distribution — Histogram of customer spending.
 
 
-🏷 Top Product Categories — Revenue contribution.
+- 👫 Gender vs Purchase — Who spends more?
+
+
+- 📍 City Category Analysis — Urban vs rural spending habits.
+
+
+- 🏷 Top Product Categories — Revenue contribution.
 
 
 🚀 Future Enhancements: 
-🔮 Build a machine learning model to predict purchase amounts.
 
-📌 Cluster customers for personalized marketing.
+- 🔮 Build a machine learning model to predict purchase amounts.
 
-🗓 Add time-series analysis if date data becomes available.
+- 📌 Cluster customers for personalized marketing.
+
+- 🗓 Add time-series analysis if date data becomes available.
 
 
 🔮 Build a machine learning model to predict purchase amounts.
