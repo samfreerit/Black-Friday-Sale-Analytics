@@ -9,29 +9,31 @@ This project dives deep into Black Friday sales data to uncover customer purchas
 The dataset contains information about customers (age, gender, occupation, city), their purchases, and product categories.
 The goal is to:
 
-🔍 Explore sales trends
+- 🔍 Explore sales trends
 
-👥 Understand customer demographics
+- 👥 Understand customer demographics
 
-📈 Identify high-value product categories
+- 📈 Identify high-value product categories
 
-🛠 Prepare data for possible predictive modeling
+- 🛠 Prepare data for possible predictive modeling
+
 
 🛠 Technologies Used
 
+
 Technology Purpose
 
-🐍 Python	Core: programming language
+- 🐍 Python	Core: programming language
 
-📦 NumPy:	Numerical computations
+- 📦 NumPy:	Numerical computations
 
-🐼 Pandas:	Data manipulation & analysis
+- 🐼 Pandas:	Data manipulation & analysis
 
-📊 Matplotlib:	Data visualization
+- 📊 Matplotlib:	Data visualization
 
-🎨 Seaborn	Advanced and attractive statistical plots
+- 🎨 Seaborn	Advanced and attractive statistical plots
 
-📓 Jupyter Notebook	Interactive data analysis
+- 📓 Jupyter Notebook	Interactive data analysis
 
 
 📂 Project Workflow:
@@ -96,9 +98,4 @@ Technology Purpose
 - 🗓 Add time-series analysis if date data becomes available.
 
 
-🔮 Build a machine learning model to predict purchase amounts.
 
-
-📌 Cluster customers for personalized marketing.
-
-🗓 Add time-series analysis if date data becomes available.
