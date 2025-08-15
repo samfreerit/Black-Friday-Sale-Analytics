@@ -18,14 +18,16 @@ The goal is to:
 🛠 Prepare data for possible predictive modeling
 
 🛠 Technologies Used
+
 Technology Purpose
-🐍 Python	Core programming language
 
-📦 NumPy	Numerical computations
+🐍 Python	Core: programming language
 
-🐼 Pandas	Data manipulation & analysis
+📦 NumPy:	Numerical computations
 
-📊 Matplotlib	Data visualization
+🐼 Pandas:	Data manipulation & analysis
+
+📊 Matplotlib:	Data visualization
 
 🎨 Seaborn	Advanced and attractive statistical plots
 
